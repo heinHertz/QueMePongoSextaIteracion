@@ -1,7 +1,7 @@
 
 
 
-version quinta iteracion quemepongo
+version sexta iteracion quemepongo
 
 
 ![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/heinHertz/QueMePongoSextaIteracion/master/diagrama.png)
